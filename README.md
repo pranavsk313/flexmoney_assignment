@@ -114,7 +114,7 @@ For reliability, we can set up health checks and monitoring for both Nginx and t
 
 4. **Access the services:**
 
-   - Frontend: http://3.109.211.255/
-   - Backend: http://3.109.211.255/api/
+   - Frontend: http://43.204.100.254/
+   - Backend: http://43.204.100.254/api/
 
 This setup ensures a clear separation of concerns, where Nginx handles serving static content and reverse proxies API requests to the backend service. It also lays a foundation for scaling, maintainability, and reliability enhancements.
